@@ -5,7 +5,7 @@
 ⚙️ Maintence - Sistema de Gerenciamento de Manutenção
 Uma aplicação web completa, construída com Streamlit, para otimizar e gerenciar operações de manutenção industrial.
 
-<img alt="last-commit" src="https://img.shields.io/github/last-commit/theofeitoza/Maintence?style=flat&logo=git&logoColor=white&color=0080ff"> <img alt="repo-top-language" src="https://img.shields.io/github/languages/top/theofeitoza/Maintence?style=flat&color=0080ff">
+<img alt="last-commit" src="https://img.shields.io/github/last-commit/theofeitoza/maintence?style=flat&logo=git&logoColor=white&color=0080ff"> <img alt="repo-top-language" src="https://img.shields.io/github/languages/top/theofeitoza/maintence?style=flat&color=0080ff">
 
 <p><em>Tecnologias Utilizadas:</em></p> <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white"> <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=flat&logo=Streamlit&logoColor=white"> <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57.svg?style=flat&logo=SQLite&logoColor=white">
 

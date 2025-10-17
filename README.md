@@ -82,7 +82,6 @@ Clone o repositório:
 
 Bash
 
-# SUBSTITUA "theofeitoza" PELO SEU NOME DE USUÁRIO DO GITHUB, SE NECESSÁRIO
 ❯ git clone https://github.com/theofeitoza/Maintence.git
 Navegue até o diretório do projeto:
 

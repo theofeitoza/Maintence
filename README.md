@@ -106,11 +106,31 @@ Siga os passos abaixo para executar a aplicação em seu ambiente local.
 
 ## 📸 Screenshots
 
-*(Adicione aqui os screenshots como login.jpg, kpis.jpg, etc.)*
+### Tela de Login e Página Inicial
+<p align="center">
+  <img src="login.jpg" width="49%">
+  <img src="pagina_inicial.jpg" width="49%">
+</p>
 
-**Tela inicial do sistema:**
+### Dashboard de KPIs e Análises
+<p align="center">
+  <img src="kpis.jpg" width="80%">
+</p>
 
-**Dashboard de KPIs:**
+### Módulos de Gestão
+<p align="center">
+  <img src="ordem_de_servico.jpg" width="49%" title="Gestão de Ordens de Serviço">
+  <img src="equipamentos.jpg" width="49%" title="Cadastro de Equipamentos">
+  <img src="estoque.PNG" width="49%" title="Controle de Estoque">
+  <img src="gestao_de_usuarios.jpg" width="49%" title="Gestão de Usuários">
+</p>
+
+### Monitoramento e Predição
+<p align="center">
+  <img src="historico.jpg" width="49%" title="Histórico de Manutenções">
+  <img src="predicao.jpg" width="49%" title="Predição de Falhas">
+</p>
+
 
 ---
 
